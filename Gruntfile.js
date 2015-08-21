@@ -100,7 +100,7 @@ module.exports = function (grunt) {
   });
   grunt.registerTask('generateAppiumIo', function () {
     generateAppiumIo(grunt, this.async());
-  });
+  });asfasfdafsadf
   grunt.registerTask('setConfigVer', function (device) {
     setDeviceConfigVer(grunt, device, this.async());
   });
